@@ -1,4 +1,4 @@
-library(leaflet)
+library(leaflet) 
 library(shiny)
 library(ggplot2)
 library(plotly)
@@ -9,7 +9,7 @@ library(shinythemes)
 library(shinydashboard)
 
 
-# UI -------------------------------------------------- 
+# UI, -------------------------------------------------- 
 
 ui <- dashboardPage(skin="black",
                     
