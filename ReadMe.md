@@ -1,7 +1,7 @@
 Overview
 ========
 
-This project is based on Sunguide Traffic Surveillance System data from Florida. A supplementary data dashborad for visualization purpose can be accessed here: [Link for Dashboard](https://shiwang0211.shinyapps.io/Dashboard_20161206/). Raw data are not included in this repository.
+This project is based on Sunguide Traffic Surveillance System data from Florida. A supplementary data dashboard for visualization purpose can be accessed here: [Link for Dashboard](https://shiwang0211.shinyapps.io/Dashboard_20161206/). Raw data are not included in this repository.
 
 The analysis include:
 
